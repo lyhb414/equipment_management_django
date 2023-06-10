@@ -1,5 +1,5 @@
 # 器材管理系统后端
-##Django环境配置
+## Django环境配置
 参考官方文档: https://docs.djangoproject.com/zh-hans/4.2/intro/install/
 ## 数据库初始化
   ```bash
